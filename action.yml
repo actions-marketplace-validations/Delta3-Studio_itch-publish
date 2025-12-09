@@ -1,12 +1,12 @@
 name: "Itch.io - Publish"
 description: "Publish releases to Itch.io"
-author: KikimoraGames
+author: Delta3-Studio
 runs:
   using: docker
   image: Dockerfile
 branding:
   icon: upload-cloud
-  color: red
+  color: blue
 inputs:
     butlerApiKey:
       description: 'Butler API Key'
