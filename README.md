@@ -1,6 +1,8 @@
 # Itch.io - Publish GitHub Action
 
-Helps you publish new releases to itch.io using butler.
+GitHub Action for publishing game releases to itch.io. Uses butler CLI under the hood.
+
+This action wraps the official itch.io butler tool (https://github.com/Delta3-Studio/butler/) to automate game deployments in Github Actions pipelines.
 
 ## Inputs
 
